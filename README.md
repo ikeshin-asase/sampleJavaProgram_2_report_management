@@ -1,0 +1,2 @@
+# sampleJavaProgram_2_report_management
+JavaプログラミングのファイルI/Oやメソッドの学習として作成したプログラム
